@@ -1,0 +1,32 @@
+repo_name: Ashish-Soni08/skills-copilot-codespaces-vscode
+report_id: cc1521a296f6494f780f3d133200b0d8
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T22:06:15+00:00'
+requested_by: Ashish-Soni08
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Ashish-Soni08/skills-copilot-codespaces-vscode
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Ashish-Soni08/skills-copilot-codespaces-vscode/blob/main/.github/workflows/0-welcome.yml
+  detection_source: ".github/workflows/0-welcome.yml"
+  last_updated_by: Ashish Soni
+  last_updated_on: 2024-03-28 22:05:57.000000000 Z
